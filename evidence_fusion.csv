@@ -1,0 +1,2 @@
+incident_id,bank,payment_method,start_time,end_time,incident_transactions,failed_transactions,incident_failure_rate,baseline_failure_rate,failure_increase,ml_matching_anomalies,evidence_score,confidence,severity,action,priority
+INC-001,HDFC,UPI,2026-08-01 18:00:00,2026-08-01 20:00:00,221,109,0.49321266968325794,0.0616625471575387,0.4315501225257192,2,90,HIGH,HIGH,TRAFFIC REDISTRIBUTION,P1

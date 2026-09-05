@@ -1,0 +1,2 @@
+incident_id,bank,payment_method,start_time,end_time,transactions,failed_transactions,incident_failure_rate,baseline_failure_rate,failure_rate_increase,dominant_failure_reason,likely_root_cause,confidence,failed_gmv,recoverable_gmv,severity,recommended_action,priority
+INC-001,HDFC,UPI,2026-08-01 18:00:00,2026-08-01 20:00:00,221,109,0.49321266968325794,0.0616625471575387,0.4315501225257192,NETWORK_ERROR,PAYMENT NETWORK / BANK-SIDE CONNECTIVITY DEGRADATION,90,93012.08,81383.5024679102,HIGH,TRAFFIC REDISTRIBUTION,P1 - HIGH
